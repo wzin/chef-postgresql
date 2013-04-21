@@ -22,6 +22,7 @@ The following platforms are supported by this cookbook, meaning that the recipes
 
 * Ubuntu
 * Debian 6
+* "apt" cookbook
 
 
 ## Recipes
